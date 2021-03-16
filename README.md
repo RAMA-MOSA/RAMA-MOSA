@@ -12,7 +12,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- 📫 Как со мной связаться: [@rama-mosa](https://t.me/rama_mosa)
+- 📫 Как со мной связаться: [@rama_mosa](https://t.me/rama_mosa)
 - 📝 [Резюме](https://hh.ru/resume/1d63e244ff08c662830039ed1f716661706a59)
 
 ### Сейчас я работаю над:
